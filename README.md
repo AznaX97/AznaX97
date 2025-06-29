@@ -1,16 +1,39 @@
-## Hi there 👋
+# 👋 Hello, I'm Azna
 
-<!--
-**AznaX97/AznaX97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub! I'm a passionate **Java backend developer** currently sharpening my skills in **Spring Boot**, **microservices**, and **RESTful APIs**. I'm also diving deep into **cybersecurity fundamentals** and exploring how to build secure, scalable systems.
 
-Here are some ideas to get you started:
+## 🔭 What I'm Working On
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 Building robust backend systems using Java, Spring Boot, and Hibernate
+- 🔐 Exploring secure authentication with protocols like Kerberos and IEEE 802.1X
+- ☁️ Studying cloud security risks and encryption techniques
+- 🚀 Preparing for an internship to kickstart my career in backend development
+
+## 📌 My Tech Stack
+
+- **Languages**: Java, SQL, C#
+- **Frameworks**: Spring Boot, Hibernate, NestJS  
+- **Tools**: Git, Maven, Postman, Docker (learning)  
+- **Interests**: Cybersecurity, IAM, microservices architecture, Database
+
+## 📚 Currently Learning
+
+- 🧠 Advanced Spring Boot features like service discovery and inter-service communication
+- 🔎 IT auditing, insider threats, and federated identity management
+
+## 🗓️ Goals for 2025
+
+- 🧩 Build 3+ real-world projects using microservices
+- 💼 Land an internship as a Java backend developer
+- 🧱 Establish my personal brand around tech learning and transformation
+
+## 📫 Reach Out
+
+Feel free to connect or collaborate!  
+📧 aznaxdev@gmail.com 
+
+
+---
+
+_“Discipline is the bridge between goals and accomplishment.” — Jim Rohn_
+
