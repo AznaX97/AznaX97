@@ -12,7 +12,8 @@ Welcome to my GitHub! I'm a passionate **Java backend developer** currently shar
 ## 📌 My Tech Stack
 
 - **Languages**: Java, C#, Python, Objective C
-- **Frameworks**: Spring Boot, ASP.NET  
+- **Frameworks**: Spring Boot, ASP.NET, Bootstrap, React Native
+- **Libraries**: React
 - **Tools**: Git, Maven, Postman, Docker, Kubernetes, Swagger/OpenAPI 
 - **Interests**: Cybersecurity, IAM, microservices architecture, Database
 
