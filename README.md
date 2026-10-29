@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Azna
 
-Welcome to my GitHub! I'm a passionate **Java backend developer** currently sharpening my skills in **Spring Boot**, **microservices**, and **RESTful APIs**. I'm also diving deep into **cybersecurity fundamentals** and exploring how to build secure, scalable systems.
+Welcome to my GitHub! I'm a passionate **Java backend developer**. 
 
 ## 🔭 What I'm Working On
 
