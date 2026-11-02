@@ -14,8 +14,8 @@ Welcome to my GitHub! I'm a **backend developer working with Java and ASP.NET**.
 - **Frameworks**: Spring Boot (Actuator), ASP.NET, Bootstrap, React Native
 - **Libraries**: React, Hibernate, JUnit
 - **Cloud**: AWS (EC2, S3, IAM, Lambda), Supabase
-- **Databases**: PostgreSQL (Supabase), AWS RDS
-- **Tools**: Git, Maven, Postman, Docker, Kubernetes, Swagger/OpenAPI, Flyway, Caddy
+- **Databases**: MySQL, PostgreSQL (Supabase), AWS RDS
+- **Tools**: Git, Maven, Postman, Docker, Kubernetes, Swagger/OpenAPI, Flyway, Caddy, MySQL Workbench
 - **Interests**: Cybersecurity, IAM, microservices architecture, databases
 
 ## 📚 Currently Learning
