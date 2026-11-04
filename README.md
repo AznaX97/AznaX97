@@ -4,7 +4,7 @@ Welcome to my GitHub! I'm a **backend developer working with Java and ASP.NET**.
 
 ## 🔭 What I'm Working On
 
-- 🌱 Building backend services with Java, Spring Boot, and Hibernate, deployed on AWS
+- 🌱 Building backend services with Java, Spring Boot, and Hibernate, deployed on AWS and Azure
 - 🔐 Exploring secure authentication with Kerberos and IEEE 802.1X
 - 🧩 Designing microservices with a focus on security and identity management
 
@@ -13,8 +13,8 @@ Welcome to my GitHub! I'm a **backend developer working with Java and ASP.NET**.
 - **Languages**: Java, C#, Python, Objective-C
 - **Frameworks**: Spring Boot (Actuator), ASP.NET, Bootstrap, React Native
 - **Libraries**: React, Hibernate, JUnit
-- **Cloud**: AWS (EC2, S3, IAM, Lambda), Supabase
-- **Databases**: MySQL, PostgreSQL (Supabase), AWS RDS
+- **Cloud**: AWS (EC2, S3, IAM, Lambda), Azure (Azure SQL), Supabase
+- **Databases**: MySQL, PostgreSQL (Supabase), AWS RDS, Azure SQL Database
 - **Tools**: Git, Maven, Postman, Docker, Kubernetes, Swagger/OpenAPI, Flyway, Caddy, MySQL Workbench
 - **Interests**: Cybersecurity, IAM, microservices architecture, databases
 
